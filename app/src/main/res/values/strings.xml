@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AquaAlert</string>
+    <string name="nav_home">Início</string>
+    <string name="nav_map">Mapa</string>
+    <string name="nav_alerts">Alertas</string>
+    <string name="nav_report">Reportar</string>
+    <string name="defesa_civil">Defesa Civil: 199</string>
+    <string name="bombeiros">Bombeiros: 193</string>
+    <string name="samu">SAMU: 192</string>
+</resources>

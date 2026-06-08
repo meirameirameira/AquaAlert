@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1565C0</color>
+    <color name="primary_variant">#003C8F</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="secondary">#0288D1</color>
+    <color name="background">#F5F7FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="on_surface_variant">#49454F</color>
+    <color name="on_background">#1C1B1F</color>
+
+    <color name="risk_critical">#6A0DAD</color>
+    <color name="risk_high">#D32F2F</color>
+    <color name="risk_medium">#E65100</color>
+    <color name="risk_low">#2E7D32</color>
+
+    <color name="info_background">#E3F2FD</color>
+    <color name="bottom_nav_selected">#1565C0</color>
+    <color name="bottom_nav_unselected">#757575</color>
+</resources>
