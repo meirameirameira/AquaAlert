@@ -4,7 +4,6 @@ Sistema de monitoramento e alerta de enchentes para Android.
 
 Aplicativo móvel que consome dados meteorológicos em tempo real para classificar o nível de risco de enchente na localização do usuário, exibir zonas de risco em mapa interativo e permitir o reporte colaborativo de ocorrências.
 
-Desenvolvido para a Global Solution 2026 — FIAP, Turma 3SIOA.
 
 ---
 
